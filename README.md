@@ -1,4 +1,4 @@
-## weather-dashboard (ilha dos arvoredos)
+## weather-dashboard
 
 explore meteorological data collected on ilha dos arvoredos, located in guarujá, são paulo, brazil, through a clean, modern and user-friendly interface.
 
